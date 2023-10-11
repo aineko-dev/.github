@@ -3,4 +3,5 @@ At [Aineko](https://aineko.dev/), we believe in Open Source and Open Standards. 
 ## Aineko Open Source
 
 * [Aineko](https://github.com/aineko-dev/aineko), the core framework for building Aineko apps.
+* [Aineko Dream](https://github.com/aineko-dev/aineko-dream) generative templating for the Aineko framework.
 * More coming soon...
