@@ -1,4 +1,4 @@
-At [Aineko](https://aineko.dev/), we believe in Open Source and Open Standards. We're developing a python framework that makes it simple to build, deploy, and scale data-intensive applications.
+At [Aineko](https://aineko.dev/), we believe in Open Source and Open Standards. We're developing a python framework that makes it simple to build, deploy, and scale event-driven AI applications.
 
 ## Aineko Open Source
 
